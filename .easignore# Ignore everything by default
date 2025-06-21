@@ -1,0 +1,8 @@
+# Ignore system junk and sockets
+.DS_Store
+*.log
+node_modules/
+Library/
+Library/**
+**/Library/**
+**/*.sock

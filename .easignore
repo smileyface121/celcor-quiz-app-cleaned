@@ -1,0 +1,21 @@
+# Ignore everything by default
+**
+
+# Only include these files and folders
+!app.json
+!eas.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!babel.config.js
+!metro.config.js
+!README.md
+
+# Allow these folders explicitly
+!app/**
+!assets/**
+!components/**
+!constants/**
+!hooks/**
+!lib/**
+!scripts/**

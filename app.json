@@ -4,7 +4,6 @@
     "slug": "celcor-quiz-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
     "scheme": "celcorquizapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,10 +12,6 @@
       "bundleIdentifier": "com.stahmed1.celcorquizapp"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "edgeToEdgeEnabled": true,
       "package": "com.stahmed1.celcorquizapp"
     },

@@ -1,12 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ScrollView, Text } from 'react-native';
 import { Button, Card } from 'react-native-paper';
-import {
-  AsyncStorage,
-  app,
-  getReactNativePersistence,
-  initializeAuth,
-} from '../../lib/firebase';
+
 
 const API_BASE_URL = 'https://c-college.onrender.com/api';
 

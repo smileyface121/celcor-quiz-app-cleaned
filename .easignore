@@ -1,7 +1,7 @@
 # Ignore everything by default
 **
 
-# Only include these files and folders
+# Include specific files
 !app.json
 !eas.json
 !package.json
@@ -11,9 +11,9 @@
 !metro.config.js
 !README.md
 
-# Allow these folders explicitly
+# Include specific folders
 !app/**
-!assets/**
+!assets/images/**
 !components/**
 !constants/**
 !hooks/**
